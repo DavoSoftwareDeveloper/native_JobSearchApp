@@ -1,0 +1,795 @@
+{
+  "status": "OK",
+  "request_id": "4c387bd3-d008-4b27-b4ef-bff10a3b931d",
+  "parameters": {
+    "query": "react developer in spain",
+    "page": 1,
+    "num_pages": 1
+  },
+  "data": [
+    {
+      "employer_name": "Plexus Tech",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLGwsC1muTSVBNi1iANeOF2eO0vQZCNRrYlnWy&s=0",
+      "employer_website": null,
+      "employer_company_type": null,
+      "job_publisher": "Jobgether",
+      "job_id": "LwOkeQJHkLEZGT6GAAAAAA==",
+      "job_employment_type": "FULLTIME",
+      "job_title": "React Developer - Remote (Portugal or Spain)",
+      "job_apply_link": "https://jobgether.com/offer/646653e552a9a28fbcc757f6-react-developer-remote-portugal-or-spain",
+      "job_apply_is_direct": false,
+      "job_apply_quality_score": 0.5562,
+      "apply_options": [
+        {
+          "publisher": "Jobgether",
+          "apply_link": "https://jobgether.com/offer/646653e552a9a28fbcc757f6-react-developer-remote-portugal-or-spain",
+          "is_direct": false
+        }
+      ],
+      "job_description": "This a Full Remote job, the offer is available from: Portugal, Spain\n\n\"\n\nWe are Plexus.Tech, a technology company specializing in IT services and products, founded on the talent and capabilities of our people, more than 2,800 professionals developing technology products and services that make life better for people, companies and institutions. Based on a model of closeness, speed and flexibility.\n\nAmong our main international clients, we have practically all of the IBEX35 companies stand out, as well as large retailers, tour operators, airline companies and financial entities.\n\nWe are increasing our Talents team! Do you dare to continue training in cutting-edge technologies on the market? Then you must join the Plexus.Tech family. If you want to progress and face new challenges, this is your opportunity.\n\nREACT DEVELOPER - Remote (Portugal or Spain)\n\nJoin us if you have:\n• +2 years of experience with React\n• Experience with hooks\n• Experience with TypeScript, JavaScript, HTML/CSS\n• Testing Experience\n• Fluent english & Fluent portuguese\n• Working in Agile environment (Scrum experience)\n\nIf you are worried about continuing your progression, this is your time!!!!!\n\nYou will be part of a team of more than 2,800 professionals and increase your professional projection with us.\n\nWHAT WE OFFER:\n• Integration into one of the largest ecommerce platforms in the world\n• Permanent contract + 100% remote\n• Flexible compensation package\n• Health insurance\n• \"Flexology\"*\n• Professional projection inserted in a team of 2800 professionals\n• Access to ongoing training\n• Be part of a dynamic team, committed, passionate about its customers and willing to give the best of themselves\n• Be part of a company with many leading professionals in the sector\n• A work ecosystem with a collaborative environment\n\nFLEXOLOGY: we are an adaptable, flexible and hybrid company. We are committed to a model based on putting people, our people, who are the pillar of our company, at the centre. We care about your talent, your skills and, above all, your well-being. Therefore, we adapt to new situations and demands so that people flow professionally and personally. A model based on trust.\n\nIn this way, Plexus.Tech professionals do their work and develop their talent where they work best, being able to choose to work from home or in any of our 24 offices, combining the best of both options.\n\nWe are passionate about technology, but above all we love the people who make it possible. Because with motivation, enthusiasm and teamwork we are doing fantastic things.\n\n\"This offer from \"Plexus Tech\" has been enriched by Jobgether and got a 78.25% flex score.",
+      "job_is_remote": true,
+      "job_posted_at_timestamp": 1684375260,
+      "job_posted_at_datetime_utc": "2023-05-18T02:01:00.000Z",
+      "job_city": "Lleida",
+      "job_state": "CT",
+      "job_country": "ES",
+      "job_latitude": 41.61772,
+      "job_longitude": 0.6200206,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=react+developer+in+spain&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=react+developer+in+spain&htidocid=LwOkeQJHkLEZGT6GAAAAAA%3D%3D",
+      "job_offer_expiration_datetime_utc": "2024-05-10T23:00:00.000Z",
+      "job_offer_expiration_timestamp": 1715382000,
+      "job_required_experience": {
+        "no_experience_required": false,
+        "required_experience_in_months": 24,
+        "experience_mentioned": true,
+        "experience_preferred": false
+      },
+      "job_required_skills": null,
+      "job_required_education": {
+        "postgraduate_degree": false,
+        "professional_certification": false,
+        "high_school": false,
+        "associates_degree": false,
+        "bachelors_degree": false,
+        "degree_mentioned": false,
+        "degree_preferred": false,
+        "professional_certification_mentioned": false
+      },
+      "job_experience_in_place_of_education": false,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_currency": null,
+      "job_salary_period": null,
+      "job_highlights": {},
+      "job_job_title": null,
+      "job_posting_language": "en",
+      "job_onet_soc": "15113400",
+      "job_onet_job_zone": "3"
+    },
+    {
+      "employer_name": "Veeva",
+      "employer_logo": "https://www.veeva.com/medtech/wp-content/uploads/2021/08/veeva-medtech-medical-device-diagnostics.png",
+      "employer_website": "http://www.veeva.com",
+      "employer_company_type": "Computer Services",
+      "job_publisher": "Veeva Careers - Veeva Systems",
+      "job_id": "V5RtuZhCyJEN3rUIAAAAAA==",
+      "job_employment_type": "FULLTIME",
+      "job_title": "Frontend Engineer (React/Remote)",
+      "job_apply_link": "https://careers.veeva.com/job/16295650/front-end-engineer-remote-barcelona-es/",
+      "job_apply_is_direct": false,
+      "job_apply_quality_score": 0.9143,
+      "apply_options": [
+        {
+          "publisher": "Veeva Careers - Veeva Systems",
+          "apply_link": "https://careers.veeva.com/job/16295650/front-end-engineer-remote-barcelona-es/",
+          "is_direct": false
+        },
+        {
+          "publisher": "Monster.es",
+          "apply_link": "https://www.monster.es/ofertas-de-trabajo/frontend-engineer-react-remote-barcelona-56--f0d2a7a2-298b-4e2a-a255-af434a5c43ba",
+          "is_direct": false
+        },
+        {
+          "publisher": "Lever",
+          "apply_link": "https://jobs.lever.co/veeva/adf0cb50-4b8a-4ee6-b19a-564de44404eb",
+          "is_direct": false
+        },
+        {
+          "publisher": "Startup Jobs",
+          "apply_link": "https://startup.jobs/frontend-engineer-react-remote-veevasystems-3507027",
+          "is_direct": false
+        },
+        {
+          "publisher": "SimplyHired",
+          "apply_link": "https://www.simplyhired.es/job/mbtXaj4SRYHgZqyWY_rhTlMbIzyRQtZLJ_EZSQatGBIbi-q5AwTTnw",
+          "is_direct": false
+        },
+        {
+          "publisher": "Ofertas De Trabajo | Trabajas.es",
+          "apply_link": "https://www.trabajas.es/oferta/frontend-engineer-react-remote-5547a8d96bda581/",
+          "is_direct": false
+        },
+        {
+          "publisher": "Jooble",
+          "apply_link": "https://es.jooble.org/jdp/-3150983004821376175",
+          "is_direct": false
+        },
+        {
+          "publisher": "Jobilize",
+          "apply_link": "https://www.jobilize.com/job/es-catalonia-barcelona-frontend-engineer-react-remote-veeva-systems",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Veeva Systems is a mission-driven organization and pioneer in industry cloud, helping life sciences companies bring therapies to patients faster. As one of the fastest-growing SaaS companies in history, we surpassed $2B in revenue in our last fiscal year with extensive growth potential ahead.\n\nAt the heart of Veeva are our values: Do the Right Thing, Customer Success, Employee Success, and Speed. We're not just any public company – we made history in 2021 by becoming a public benefit corporation (PBC), legally bound to balancing the interests of customers, employees, society, and investors.\n\nAs a Work Anywhere company, we support your flexibility to work from home or in the office, so you can thrive in your ideal environment.\n\nJoin us in transforming the life sciences industry, committed to making a positive impact on its customers, employees, and communities.\n\nThe Role\n\nVeeva Link seeks a mid-to-senior level Front End Engineer (React) that will participate in all aspects of architecting and developing new and innovative web applications. You will have the opportunity to work on cutting-edge technology and new product development in an established company that is rapidly growing. This is a great opportunity for an engineer looking to expand their well-established career, who is excited about search, solving complex problems, ownership, and who enjoys working with technologies like React, Python, AWS, and Elasticsearch.\n\nYou have to be based in Spain and be eligible for employment in the European Union, as Veeva does not sponsor employment visa/permit processes for this opportunity.\nWhat You'll Do\n• Build scalable web applications utilizing open-source tools and technologies\n• Use REST and GraphQL APIs\n• Be able to work independently while communicating progress to other members of the team\n• Lead the technical planning, user story and technical acceptance creation, and coding\n• Identify and correct complex bugs and problems\n• Plan technical architectures that minimize or eliminates performance problems, complexity, or solution fragility\n• Implement a front end based on mock-ups and in some cases based on visual design\n• Develop a front end using the latest responsive design development techniques\nRequirements\n• At least 3 years of professional experience building scalable and reliable web applications are required\n• Experience with React or another comparable JavaScript framework\n• Deep understanding of front end technologies, such as JavaScript, HTML, and CSS\n• Unit test and debugging skills\n• Independent, self-managed, and motivated\n• Good command of the English language\nNice to Have\n• Experience with any of the following would be a plus: Python, Django, AWS (or another cloud provider), any RDBS, Elasticsearch, Redis\n• Have a bachelor’s degree in computer science, engineering, or information systems\n\n#RemoteSpain\n\nVeeva’s headquarters is located in the San Francisco Bay Area with offices in more than 15 countries around the world.\n\nVeeva is committed to fostering a culture of inclusion and growing a diverse workforce. Diversity makes us stronger. It comes in many forms. Gender, race, ethnicity, religion, politics, sexual orientation, age, disability and life experience shape us all into unique individuals. We value people for the individuals they are and the contributions they can bring to our teams.",
+      "job_is_remote": false,
+      "job_posted_at_timestamp": 1700006400,
+      "job_posted_at_datetime_utc": "2023-11-15T00:00:00.000Z",
+      "job_city": "Barcelona",
+      "job_state": "CT",
+      "job_country": "ES",
+      "job_latitude": 41.387398,
+      "job_longitude": 2.168568,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=react+developer+in+spain&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=react+developer+in+spain&htidocid=V5RtuZhCyJEN3rUIAAAAAA%3D%3D",
+      "job_offer_expiration_datetime_utc": null,
+      "job_offer_expiration_timestamp": null,
+      "job_required_experience": {
+        "no_experience_required": false,
+        "required_experience_in_months": 36,
+        "experience_mentioned": true,
+        "experience_preferred": true
+      },
+      "job_required_skills": null,
+      "job_required_education": {
+        "postgraduate_degree": false,
+        "professional_certification": false,
+        "high_school": false,
+        "associates_degree": false,
+        "bachelors_degree": false,
+        "degree_mentioned": true,
+        "degree_preferred": true,
+        "professional_certification_mentioned": false
+      },
+      "job_experience_in_place_of_education": false,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_currency": null,
+      "job_salary_period": null,
+      "job_highlights": {},
+      "job_job_title": "Frontend engineer",
+      "job_posting_language": "en",
+      "job_onet_soc": "15113400",
+      "job_onet_job_zone": "3",
+      "job_naics_code": "541512",
+      "job_naics_name": "Computer Systems Design Services"
+    },
+    {
+      "employer_name": "Globant",
+      "employer_logo": "https://www.globant.com/themes/custom/globant_corp_theme/images/2019/globant-logo-dark.svg",
+      "employer_website": "http://www.globant.com",
+      "employer_company_type": "Computer Services",
+      "job_publisher": "Careers | Globant",
+      "job_id": "QhkHnNVZ7ta5ApdbAAAAAA==",
+      "job_employment_type": "FULLTIME",
+      "job_title": "Senior Web UI Developer with React - Barcelona, ES | Globant Careers",
+      "job_apply_link": "https://career.globant.com/job/Barcelona-Senior-Web-UI-Developer-with-React-Cata/547157717/",
+      "job_apply_is_direct": false,
+      "job_apply_quality_score": 0.7736,
+      "apply_options": [
+        {
+          "publisher": "Careers | Globant",
+          "apply_link": "https://career.globant.com/job/Barcelona-Senior-Web-UI-Developer-with-React-Cata/547157717/",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Right now, we are looking for a Senior Web UI Developer with React to join our team at Globant!",
+      "job_is_remote": false,
+      "job_posted_at_timestamp": 1706659200,
+      "job_posted_at_datetime_utc": "2024-01-31T00:00:00.000Z",
+      "job_city": "Barcelona",
+      "job_state": "CT",
+      "job_country": "ES",
+      "job_latitude": 41.387398,
+      "job_longitude": 2.168568,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=react+developer+in+spain&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=react+developer+in+spain&htidocid=QhkHnNVZ7ta5ApdbAAAAAA%3D%3D",
+      "job_offer_expiration_datetime_utc": "2025-01-31T02:00:00.000Z",
+      "job_offer_expiration_timestamp": 1738288800,
+      "job_required_experience": {
+        "no_experience_required": false,
+        "required_experience_in_months": null,
+        "experience_mentioned": false,
+        "experience_preferred": false
+      },
+      "job_required_skills": null,
+      "job_required_education": {
+        "postgraduate_degree": false,
+        "professional_certification": false,
+        "high_school": false,
+        "associates_degree": false,
+        "bachelors_degree": false,
+        "degree_mentioned": false,
+        "degree_preferred": false,
+        "professional_certification_mentioned": false
+      },
+      "job_experience_in_place_of_education": false,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_currency": null,
+      "job_salary_period": null,
+      "job_highlights": {},
+      "job_job_title": "Senior",
+      "job_posting_language": "en",
+      "job_onet_soc": "15113400",
+      "job_onet_job_zone": "3",
+      "job_naics_code": "541511",
+      "job_naics_name": "Custom Computer Programming Services"
+    },
+    {
+      "employer_name": "ERNI",
+      "employer_logo": "https://www.erni.com/typo3conf/ext/av_erni/Resources/Public/Img/Logos/logo.svg",
+      "employer_website": "http://www.erni.com",
+      "employer_company_type": null,
+      "job_publisher": "LinkedIn",
+      "job_id": "lgivrR4b00VtGH1HAAAAAA==",
+      "job_employment_type": "FULLTIME",
+      "job_title": "Frontend Developer (React)",
+      "job_apply_link": "https://es.linkedin.com/jobs/view/frontend-developer-react-at-erni-3825505894",
+      "job_apply_is_direct": false,
+      "job_apply_quality_score": 0.763,
+      "apply_options": [
+        {
+          "publisher": "LinkedIn",
+          "apply_link": "https://es.linkedin.com/jobs/view/frontend-developer-react-at-erni-3825505894",
+          "is_direct": false
+        },
+        {
+          "publisher": "Indeed",
+          "apply_link": "https://es.indeed.com/viewjob?jk=5d154bfc42044871",
+          "is_direct": false
+        },
+        {
+          "publisher": "SimplyHired",
+          "apply_link": "https://www.simplyhired.es/job/shQ9p6jRjbRMtGd_npKBHISC0g49NTBD1QorG-HYVNWpgelY_YUyEQ",
+          "is_direct": false
+        },
+        {
+          "publisher": "Jooble",
+          "apply_link": "https://es.jooble.org/jdp/1348813226719009063",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Looking for a company that challenges you every day?\n\nAt ERNI, you will have the opportunity to develop customized software solutions that have an actual impact on people life’s and on the society. Therefore, you will be dealing with concepts like sophistication, quality, complexity and/or regulations.\n\nOur leadership in the Health-Tech (Diagnostic Medical Devices, Pharma, Health Care…) and in all industries around Smart Devices (Robots, Cars, 3D Printers, Machinery…), in a powerful combination with the way we growth people, let us create a growing, learning and challenging set up for ERNIans.\n\nWe build digital solutions that connect the physical world (devices & connectivity) with the digital one (software solutions embedded, connected, or consuming their data). You will be part of teams prioritizing the software lifecycle & ensuring that our code is both clean and secure. Our maturity in building high-impact software solutions approaches us whatever industry looking for quality and sophistication (e.g. Gaming, FMCG or Validation & Inspection..).\n\nIf this sounds interesting for you and you are ready to boost your skills in React? Join our project in the med-tech to work on the development of a medical device for diagnostic by image. The aim of the project is to detect different diseases not only COVID, and reduce the time of diagnosis.\n\nHow ERNI cares about YOU\n\n   Paid and rewarded certifications: you will be able to learn new technologies to develop as a professional in the areas that interest you most (such as: Agile, DevOps, Cloud, QA, etc.) and be rewarded from 200€ to 1.400€ per certification, in addition to the paid exam.\n\n  High Value Training: after a year at ERNI, you will have the opportunity to enroll on +500€ Executive courses, Masters or Postgraduates. 80% of the total amount will be covered by the company.\n\n  Hybrid working model: at ERNI we believe in the importance of building strong relationships with our colleagues, projects and customers. We believe that building these relationships is much more effective when done in person.\n\n   Home Office: you will receive an extra monthly compensation to cover your teleworking expenses, as well as any necessary equipment to be comfortable doing your job.\n\n  Far Home Office: you can extend your holidays and work remotely from any European country or Spanish city up to 5 weeks per year.\n\n  Flexible working shift*: you will enjoy a Friday intensive shift and a self-managed flexible working hours.\n\n  Permanent contract: there is always a project for you to keep working with us, you will always find a project that fits your expectations in our people allocation meetings.\n\n  Challenging projects: ERNI is dedicated to develop high-quality software in complex technical environments such as pharmaceutics, biotechnology, robotics and 4.0 industry. With us, you will have the chance to participate in a variety of technical challenging projects amongst passionate and skilled colleagues.\n\n⭐Proximity and support: from the first day at ERNI, you will be guided by a Mentor and a People Development team that will make sure you have the right tools to develop and give you opportunities to grow in a project or to switch to a new one.\n\n   Communication: you will find transparency, honesty, and open communication all over the organization through a breakfast with our MD and a monthly session to be updated on what’s going on at ERNI.\n\n   Promotions & Recognition: from the very first day, we offer you a way to learn and develop yourself in our company. All efforts are always recognized and appreciated by your colleagues and superiors which makes feel satisfied with your own achievements.\n\n   5 and 10 years at ERNI: we would want to celebrate two important milestones on your ERNI journey, your 5th and 10th anniversary with a celebration where all your colleagues will share some words of thanks. On the 5th anniversary, you will receive a special package at home, a restaurant voucher for two, and 3,000€ on your monthly payroll. For the 10th anniversary, you will receive 7,000€ on your monthly payroll, a special package at home and a gateway for two.\n\n   Free languages courses: learn German and Spanish or improve your English skills with our external teachers in small groups once per week.\n\n   Private medical insurance: we will offer you a private medical insurance for you and a 100% salary coverage on sickness leave.\n\n   Flexible compensation: you will be able to dedicate part of your gross salary to different options such as transportation bonus, ticket restaurant, kindergarten bonus and to also to be able to add a family member into your own insurance plan.\n\n  ♀️Gym Funding: ERNI bets on a healthy lifestyle, for that reason, we offer you special discounts on fitness facilities.\n\n✈️ Re-allocation funding: if you are coming from abroad, we will help to become a part of our company with a relocation package bonus from 1.000€ to 2.000€.\n\n   Referral program: you will receive an extra bonus with our “Candidate’s referral program” from 2.000€ to 6.000€ depending on the candidate seniority level; and an extra bonus, also with our “Business opportunity referral program” from 500€ to 5.000€ depending on the opportunity size and customer.\n\n  ️♂️ Life support: to strengthen our commitment to conciliation and willingness of being close in your day-to-day life and important moments. We provide you a set of services and benefits, free of charge for, to assist you and your family in legal consultation, personal assistance, etc.\n\n   Events: we do believe in the importance of meeting our colleagues in an informal and natural environment to build connections and foster trust so that we feel like home. Leisure events, Christmas dinner and summer party are waiting for you!\n\nTo be a best fit for this project you will need:\n• You have +4 years of experience with Front-end. (React).\n• You have experience with state management libraries (e.g., Redux).\n• You have experience with Saga library.\n• You have strong proficiency with Typescript.\n• You have experience with version control systems, such as Git.\n• You have excellent communication skills in English, both written and verbal.\n\nYou will be responsible for:\n• Develop a Medical Device application using React and Redux library.\n• Implement Async methods using Sagas and React Query library.\n• Create unit tests for components, focusing on code quality and reliability.\n• Utilize Git for version control and actively participate in Continuous Integration processes.\n• Update documentation for regulatory entities to ensure compliance with industry standards.\n\nAre you still curious? Discover what it is to become part of ERNI:\n\nhttps://spainteam.betterask.erni/\n\nWOULD YOU LIKE TO BECOME AN ERNIan? APPLY NOW!",
+      "job_is_remote": false,
+      "job_posted_at_timestamp": 1707753280,
+      "job_posted_at_datetime_utc": "2024-02-12T15:54:40.000Z",
+      "job_city": "Barcelona",
+      "job_state": "CT",
+      "job_country": "ES",
+      "job_latitude": 41.387398,
+      "job_longitude": 2.168568,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=react+developer+in+spain&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=react+developer+in+spain&htidocid=lgivrR4b00VtGH1HAAAAAA%3D%3D",
+      "job_offer_expiration_datetime_utc": "2024-03-13T16:09:44.000Z",
+      "job_offer_expiration_timestamp": 1710346184,
+      "job_required_experience": {
+        "no_experience_required": false,
+        "required_experience_in_months": 48,
+        "experience_mentioned": true,
+        "experience_preferred": false
+      },
+      "job_required_skills": null,
+      "job_required_education": {
+        "postgraduate_degree": false,
+        "professional_certification": false,
+        "high_school": false,
+        "associates_degree": false,
+        "bachelors_degree": true,
+        "degree_mentioned": true,
+        "degree_preferred": false,
+        "professional_certification_mentioned": true
+      },
+      "job_experience_in_place_of_education": false,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_currency": null,
+      "job_salary_period": null,
+      "job_highlights": {},
+      "job_job_title": null,
+      "job_posting_language": "en",
+      "job_onet_soc": "15113400",
+      "job_onet_job_zone": "3"
+    },
+    {
+      "employer_name": "UST",
+      "employer_logo": "https://ust.com/etc.clientlibs/global/clientlibs/clientlib-base/resources/images/logo-main.svg",
+      "employer_website": "http://www.ust.com",
+      "employer_company_type": "Computer Services",
+      "job_publisher": "Jobgether",
+      "job_id": "-eTvba8rCTbtLBD1AAAAAA==",
+      "job_employment_type": "FULLTIME",
+      "job_title": "React, Typescript Developer (100% remote from Spain)",
+      "job_apply_link": "https://jobgether.com/offer/65aac05a3ab3dfcb89a2ff01-react-typescript-developer-100-remote-from-spain",
+      "job_apply_is_direct": false,
+      "job_apply_quality_score": 0.643,
+      "apply_options": [
+        {
+          "publisher": "Jobgether",
+          "apply_link": "https://jobgether.com/offer/65aac05a3ab3dfcb89a2ff01-react-typescript-developer-100-remote-from-spain",
+          "is_direct": false
+        },
+        {
+          "publisher": "Kit Empleo",
+          "apply_link": "https://www.kitempleo.es/empleo/98080538/xci930-react-typescript-developer-100-remote-from-spain-madrid/",
+          "is_direct": false
+        }
+      ],
+      "job_description": "This a Full Remote job, the offer is available from: Spain\n\n\"\n\nJob Description\n\nWe are looking for the very Top Talent…and we would be delighted if you were to join our team!\n\nMore in details, UST is a multinational company based in North America, certified as a Top Employer company with over 29.000 employees all over the world and presence in more than 30 countries. We are leaders on digital technology services, and we provide large-scale technologic solutions to big companies. **\n\nWhat are we looking for?**\n\nIn UST, We are looking for a React, Typescript developer.\n\nThe ideal candidate will be responsible for the development and maintenance of applications using React and Typescript.\n\nAs a Developer, you will collaborate with cross-functional teams, including designers and product managers, to deliver high-quality software solutions. **\n\n100% remote position for people located in Spain.**\n\nMinimum Requirements\n\n4 years of experience with React and experience using Typescript.\n\nExpert in CSS3 and HTML5.\n\nUse of best practices like clean code, componentization, reusability.\n\nExperience with testing, Git (gitflow) and code reviews.\n\nExperience working with Agile principles and team working. **\n\nEnglish B2/C1**\n\nValuable and desirable: being entitled of Disability Certificate\n\nWhat can we offer?\n• 23 days of Annual Leave plus the 24th and 31st of December as discretionary days!\n• Numerous benefits (Health Care Plan, teleworking compensation, Life and Accident Insurance).\n• `Retribución Flexible´ Program: (Meals, Kinder Garden, Transport, online English lessons, Health Care Plan…)\n• Free access to several training platforms\n• Professional stability and career plans\n• UST also, compensates referrals from which you could benefit when you refer professionals.\n• The option to pick between 12 or 14 payments throughout the year.\n• Real Work Life Balance measures (flexibility, WFH, or remote work policy)\n• UST Club Platform discounts and gym Access discounts\n\nIf you would like to know more, do not hesitate to apply and we’ll get in touch to fill you in on details. UST is waiting for you!\n\n\"This offer from \"UST\" has been enriched by Jobgether and got a 77% flex score.",
+      "job_is_remote": true,
+      "job_posted_at_timestamp": 1705686001,
+      "job_posted_at_datetime_utc": "2024-01-19T17:40:01.000Z",
+      "job_city": "Donostia",
+      "job_state": "PV",
+      "job_country": "ES",
+      "job_latitude": 43.318333,
+      "job_longitude": -1.9812313,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=react+developer+in+spain&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=react+developer+in+spain&htidocid=-eTvba8rCTbtLBD1AAAAAA%3D%3D",
+      "job_offer_expiration_datetime_utc": "2024-05-06T22:37:49.000Z",
+      "job_offer_expiration_timestamp": 1715035069,
+      "job_required_experience": {
+        "no_experience_required": false,
+        "required_experience_in_months": 48,
+        "experience_mentioned": true,
+        "experience_preferred": false
+      },
+      "job_required_skills": null,
+      "job_required_education": {
+        "postgraduate_degree": false,
+        "professional_certification": false,
+        "high_school": false,
+        "associates_degree": false,
+        "bachelors_degree": false,
+        "degree_mentioned": false,
+        "degree_preferred": false,
+        "professional_certification_mentioned": false
+      },
+      "job_experience_in_place_of_education": false,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_currency": null,
+      "job_salary_period": null,
+      "job_highlights": {},
+      "job_job_title": null,
+      "job_posting_language": "en",
+      "job_onet_soc": "15113400",
+      "job_onet_job_zone": "3",
+      "job_naics_code": "541511",
+      "job_naics_name": "Custom Computer Programming Services"
+    },
+    {
+      "employer_name": "UST",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7vYM970MjmeEjbT4dpVyg0Ptw3aHiOikGOKU_&s=0",
+      "employer_website": null,
+      "employer_company_type": null,
+      "job_publisher": "UST",
+      "job_id": "2c9IbfJormbxTSI5AAAAAA==",
+      "job_employment_type": "FULLTIME",
+      "job_title": "Python, React, Open AI API Developer (100% remote from Spain)",
+      "job_apply_link": "https://fa-erwh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/es/job/93558586?utm_medium=search+engine&utm_source=google",
+      "job_apply_is_direct": false,
+      "job_apply_quality_score": 0.6131,
+      "apply_options": [
+        {
+          "publisher": "UST",
+          "apply_link": "https://fa-erwh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/es/job/93558586?utm_medium=search+engine&utm_source=google",
+          "is_direct": false
+        },
+        {
+          "publisher": "Ofertas De Trabajo | Trabajas.es",
+          "apply_link": "https://www.trabajas.es/oferta/python-react-open-ai-api-developer-100-remote-from-spain-madrid-madrid-spain-posted-on-0-a7263e800bba2d9/",
+          "is_direct": false
+        },
+        {
+          "publisher": "SimplyHired",
+          "apply_link": "https://www.simplyhired.es/job/ejbgm0-MMAWSnD1VGydGzYUDNWwCH8dYFTtXmogscmTOQKjKd3fcDA",
+          "is_direct": false
+        },
+        {
+          "publisher": "Adzuna",
+          "apply_link": "https://www.adzuna.es/details/4536093777",
+          "is_direct": false
+        },
+        {
+          "publisher": "Jobrapido.com",
+          "apply_link": "https://es.jobrapido.com/jobpreview/330774591",
+          "is_direct": false
+        },
+        {
+          "publisher": "Search European Jobs",
+          "apply_link": "https://searcheuropeanjobs.com/job/python-react-open-ai-api-developer-100-remote--madrid-ust-783f9f3f37/",
+          "is_direct": false
+        }
+      ],
+      "job_description": "We are looking for the very Top Talent…and we would be delighted if you were to join our team!\n\nMore in details, UST is a multinational company based in North America, certified as a Top Employer company with over 35.000 employees all over the world and presence in more than 35 countries. We are leaders on digital technology services, and we provide large-scale technologic solutions to big companies.\n\nWhat are we looking for?\n\nIn UST, we are seeking a skilled and experienced engineer proficient in Python, full stack development, and with a solid understanding of React to join our team.\n\nThe ideal candidate will possess strong analytical skills and the ability to refine project backlogs, guiding the team effectively through project initiation.\n\n100% remote position for people located in Spain.\n\nMinimum requirements:\n\nBachelor’s or Master’s degree in Computer Science or related field.\n\n• Mastery with back-end development using Python (7+ years of commercial experience) and front end development using React.\n\n• Proven experience in both UI and UX. Development skills using React preferably using Material UI or Bootstrap frameworks.\n\n• Experience in Cloud architecture and adoption patterns (AWS and Azure are the most relevant)\n\n• Experience working with senior stakeholders to carry out requirements analysis and definition, contributing to a well refined product backlog.\n\n• Familiar with continuous delivery and tools (e.g. Octopus Deploy, ADO Pipelines)\n\n• Good knowledge of distributed systems at backend with a proven track record in Performance, Scalability, and Resiliency.\n\n• Agile delivery experience, especially around discovering requirements and story splitting.\n\n• A good understanding of testing approaches (e.g. TDD) and putting testability at the heart of software design and development. The knowledge, experience and qualifications that will help\n\n• Familiarity with chat interface development.\n\n• Curiosity for AI technologies, particularly experimentation with ChatGPT, OpenAI APIs or other LLMs.\n\n• Experience with containers and orchestrators such as Docker and Kubernetes.\n\nEnglish B2/C1\n\nValuable and desirable: being entitled of Disability Certificate\n\nKey responsabilities:\n\n• Continuous delivery of exciting new feature additions to our internal AI Assistant application, drawing from our product roadmap.\n\n• Develop software iteratively in close collaboration with the rest of the team with fast feedback loops, frequent releases, and a “shift-left” approach to testing.\n\n• Perform triage, analysis and refinement of requirements, working closely with the Product Lead. Ensure backlog items are well refined before presenting to the rest of the development team.\n\n• Manage in-house developed applications and production services to meet compliance and quality standards.\n\n• Have a clear oversight on how our managed systems relate to each other, with autonomy to continuously iterate improvements to achieve highly available, fault tolerant applications.\n\n• Improve reliability, monitoring and observability of services deployed within a complex, distributed technology environment (leveraging both AWS and Azure services)\n\n• Develop automation techniques to simplify repetitive tasks and explore opportunities to self-heal.\n\n• Participate in system design, backlog refinement, code review and application testing.\n\nWhat can we offer?\n• 23 days of Annual Leave plus the 24th and 31st of December as discretionary days!\n• Numerous benefits (Health Care Plan, teleworking compensation, Life and Accident Insurance).\n• `Retribución Flexible´ Program: (Meals, Kinder Garden, Transport, online English lessons, Health Care Plan…)\n• Free access to several training platforms\n• Professional stability and career plans\n• UST also, compensates referrals from which you could benefit when you refer professionals.\n• The option to pick between 12 or 14 payments throughout the year.\n• Real Work Life Balance measures (flexibility, WFH, or remote work policy)\n• UST Club Platform discounts and gym Access discounts\n\nIf you would like to know more, don’t hesitate to apply and we’ll get in touch to fill you in detail. We are waiting for you!\n\nIn UST we are committed to equal opportunities in our selection processes and do not discriminate based on race, gender, disability, age, religion, sexual orientation or nationality.",
+      "job_is_remote": false,
+      "job_posted_at_timestamp": 1705592979,
+      "job_posted_at_datetime_utc": "2024-01-18T15:49:39.000Z",
+      "job_city": "Madrid",
+      "job_state": "MD",
+      "job_country": "ES",
+      "job_latitude": 40.416775,
+      "job_longitude": -3.7037902,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=react+developer+in+spain&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=react+developer+in+spain&htidocid=2c9IbfJormbxTSI5AAAAAA%3D%3D",
+      "job_offer_expiration_datetime_utc": null,
+      "job_offer_expiration_timestamp": null,
+      "job_required_experience": {
+        "no_experience_required": false,
+        "required_experience_in_months": 84,
+        "experience_mentioned": true,
+        "experience_preferred": false
+      },
+      "job_required_skills": null,
+      "job_required_education": {
+        "postgraduate_degree": false,
+        "professional_certification": false,
+        "high_school": false,
+        "associates_degree": false,
+        "bachelors_degree": false,
+        "degree_mentioned": true,
+        "degree_preferred": true,
+        "professional_certification_mentioned": false
+      },
+      "job_experience_in_place_of_education": false,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_currency": null,
+      "job_salary_period": null,
+      "job_highlights": {},
+      "job_job_title": null,
+      "job_posting_language": "en",
+      "job_onet_soc": "15113200",
+      "job_onet_job_zone": "4"
+    },
+    {
+      "employer_name": "Michael Page",
+      "employer_logo": "https://upload.wikimedia.org/wikipedia/commons/7/7d/PageGroup_Logo.jpg",
+      "employer_website": "http://www.page.com",
+      "employer_company_type": "Consulting",
+      "job_publisher": "React Jobs",
+      "job_id": "lFYcjKig3ohg_3omAAAAAA==",
+      "job_employment_type": "FULLTIME",
+      "job_title": "React developer - 100% remote, Madrid",
+      "job_apply_link": "https://reactjsjob.com/job/2GzHwlnZwFgJOMNrgo8gjfES58h/React%20developer%20-%20100%20remote,%20Madrid",
+      "job_apply_is_direct": false,
+      "job_apply_quality_score": 0.5195,
+      "apply_options": [
+        {
+          "publisher": "React Jobs",
+          "apply_link": "https://reactjsjob.com/job/2GzHwlnZwFgJOMNrgo8gjfES58h/React%20developer%20-%20100%20remote,%20Madrid",
+          "is_direct": false
+        }
+      ],
+      "job_description": "React developer - 100% remote en Madrid.Perfil buscado (Hombre/Mujer)Write clean code to develop functional software components. Express your solid skills on JavaScript HTML CSS3 and modern web frameworks.Follow agile programming best practices development conventions and adopt a DevOps culture.Stay up-to-date with open source trends and emerging frontend technologies.Give support in the architecture definition and design of the solution.Perform deployment validations and verification testing.Op",
+      "job_is_remote": true,
+      "job_posted_at_timestamp": 1667347200,
+      "job_posted_at_datetime_utc": "2022-11-02T00:00:00.000Z",
+      "job_city": "Madrid",
+      "job_state": "MD",
+      "job_country": "ES",
+      "job_latitude": 40.416775,
+      "job_longitude": -3.7037902,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=react+developer+in+spain&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=react+developer+in+spain&htidocid=lFYcjKig3ohg_3omAAAAAA%3D%3D",
+      "job_offer_expiration_datetime_utc": "2024-03-10T06:31:39.000Z",
+      "job_offer_expiration_timestamp": 1710052299,
+      "job_required_experience": {
+        "no_experience_required": false,
+        "required_experience_in_months": null,
+        "experience_mentioned": false,
+        "experience_preferred": false
+      },
+      "job_required_skills": [
+        "reactjs",
+        "react",
+        "javascript",
+        "typescript",
+        "java",
+        "css",
+        "devops",
+        "kubernetes",
+        "docker",
+        "architect"
+      ],
+      "job_required_education": {
+        "postgraduate_degree": false,
+        "professional_certification": false,
+        "high_school": false,
+        "associates_degree": false,
+        "bachelors_degree": false,
+        "degree_mentioned": false,
+        "degree_preferred": false,
+        "professional_certification_mentioned": false
+      },
+      "job_experience_in_place_of_education": false,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_currency": null,
+      "job_salary_period": null,
+      "job_highlights": {},
+      "job_job_title": null,
+      "job_posting_language": "en",
+      "job_onet_soc": "15113400",
+      "job_onet_job_zone": "3",
+      "job_naics_code": "541613",
+      "job_naics_name": "Marketing Consulting Services"
+    },
+    {
+      "employer_name": "Agrupa Global Talent",
+      "employer_logo": null,
+      "employer_website": null,
+      "employer_company_type": null,
+      "job_publisher": "LinkedIn",
+      "job_id": "uWL7BYxTMDvD7KaFAAAAAA==",
+      "job_employment_type": "FULLTIME",
+      "job_title": "Fullstack React Developers For European It Hub",
+      "job_apply_link": "https://es.linkedin.com/jobs/view/fullstack-react-developers-for-european-it-hub-at-agrupa-global-talent-3827621862",
+      "job_apply_is_direct": false,
+      "job_apply_quality_score": 0.7523,
+      "apply_options": [
+        {
+          "publisher": "LinkedIn",
+          "apply_link": "https://es.linkedin.com/jobs/view/fullstack-react-developers-for-european-it-hub-at-agrupa-global-talent-3827621862",
+          "is_direct": false
+        },
+        {
+          "publisher": "Indeed",
+          "apply_link": "https://es.indeed.com/viewjob?jk=52bb22189c6a4211",
+          "is_direct": false
+        },
+        {
+          "publisher": "Talent.com",
+          "apply_link": "https://es.talent.com/view?id=9a2b90d1ed28",
+          "is_direct": false
+        },
+        {
+          "publisher": "BeBee",
+          "apply_link": "https://es.bebee.com/job/20240212-1623964747cf4491f6a6511b3e58a6f3",
+          "is_direct": false
+        },
+        {
+          "publisher": "SimplyHired",
+          "apply_link": "https://www.simplyhired.es/job/n4E6Q7tCMUXptjWAtrWqVP2PIDa59dPgI66Ml7Dvw3K7BHVWUg6sMA",
+          "is_direct": false
+        },
+        {
+          "publisher": "Jooble",
+          "apply_link": "https://es.jooble.org/jdp/8494950759263645422",
+          "is_direct": false
+        },
+        {
+          "publisher": "Learn4Good",
+          "apply_link": "https://www.learn4good.com/jobs/barcelona/espana/ti_tecnologia/2860050149/s/",
+          "is_direct": false
+        },
+        {
+          "publisher": "Trabajo.org",
+          "apply_link": "https://es.trabajo.org/oferta-860-20240207-776acf752c437117ab47cc801dd7c08d",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Company A leading international retailer with 500,000 employees worldwide in 33 different countries and over 12,900 stores, is building in Barcelona an IT HUB as part of his IT division, responsible for the selection and provision of IT infrastructure, IT platforms and business applications. With our agile mentality we are looking for people that is willing to make an impact on projects and solutions used worldwide by millions of customers. Agrupa Global Talent collaborates with our client to attract the best talent for its ITHUB located in Barcelona. We are looking for open-minded colleagues with passion for technology. We offer you diverse and exciting career opportunities in a dynamic work environment that stands for development and progress. If you feel ready and think this opportunity is for you, we would be happy to meet you. Position As our Full Stack Developer, you will work together in a multidisciplinary Squad composed of Developers, QAs, UX/UI, Technical Lead and a Product Owner towards a common goal. Our teams work in a completely agile environment. You will be working on an international project, giving support in .NET/React development topics and proposing new ideas. If you are passionate about technology and interested in developing complex projects – keep reading! Key Responsibilities Develop maintainable and stable applications according to business needs and technical requirements Promote optimal architectures, frameworks, solutions for the project Participate in regular code reviews and team knowledge sharing activities Be an advocate of code quality and best practices in the team Work in small multidisciplinary and agile teams composed by developers, QA, UX, Technical Lead and Product Owners, all working for the same mission Write mainly Unit Tests and Integration Tests What we offer You will be part of an international team composed by people from different countries and backgrounds, where you'll be able to share your experience and knowledge to carry-out team work and meet the objectives. On top of this, you'll have a personal follow-up with your management team to help you understanding all business-related questions and guide you in your professional career. We offer a competitive compensation and benefits package: lunch vouchers, health and dental insurance, transport, wellbeing, etc. and your own budget for training and development. Contact If you are interested, please apply directly or send your CV to ****** Required Skills Must have: Passion for technology and being a native team player. 3+ years of experience in a professional environment working as Full Stack engineer. Excellent technical, diagnostic, and troubleshooting skills. Experience turning requirements / needs into solutions. Proficient on TypeScript and ES6+. Proven experience with React and its ecosystem (Redux, NextJS). Previous experience working with UI component libraries. Proven experience with .NET frameworks Experience with front-end JS testing tools and a comprehensive understanding of UI testing techniques. Familiar with frontend architecture topics (rendering patterns, web performance, accessibility) Proven experience with non-relational databases like MongoDB Proven experience building Stateless Web Services and REST API Understanding web architectures and associated protocols Good spoken English and Spanish is a must The following skills would be a plus: Experience with Cloud Vendors (Preferred Azure) Experience with Kubernetes Experience with Relational Databases Experience with Varnish Experience with JavaScript/TypeScript Knowledge of best practices like SOLID, CQRS, Clean Architecture and Design Patterns) Trunk based development Clean architecture Clean coding TDD Past experience working with Agile methodologies.",
+      "job_is_remote": false,
+      "job_posted_at_timestamp": 1707673409,
+      "job_posted_at_datetime_utc": "2024-02-11T17:43:29.000Z",
+      "job_city": "Barcelona",
+      "job_state": "CT",
+      "job_country": "ES",
+      "job_latitude": 41.387398,
+      "job_longitude": 2.168568,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=react+developer+in+spain&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=react+developer+in+spain&htidocid=uWL7BYxTMDvD7KaFAAAAAA%3D%3D",
+      "job_offer_expiration_datetime_utc": "2024-03-12T17:43:28.000Z",
+      "job_offer_expiration_timestamp": 1710265408,
+      "job_required_experience": {
+        "no_experience_required": false,
+        "required_experience_in_months": 36,
+        "experience_mentioned": true,
+        "experience_preferred": true
+      },
+      "job_required_skills": null,
+      "job_required_education": {
+        "postgraduate_degree": false,
+        "professional_certification": false,
+        "high_school": false,
+        "associates_degree": false,
+        "bachelors_degree": true,
+        "degree_mentioned": false,
+        "degree_preferred": false,
+        "professional_certification_mentioned": false
+      },
+      "job_experience_in_place_of_education": false,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_currency": null,
+      "job_salary_period": null,
+      "job_highlights": {},
+      "job_job_title": null,
+      "job_posting_language": "en",
+      "job_onet_soc": "15113400",
+      "job_onet_job_zone": "3"
+    },
+    {
+      "employer_name": "Talan",
+      "employer_logo": null,
+      "employer_website": null,
+      "employer_company_type": null,
+      "job_publisher": "Smart Recruiters Jobs",
+      "job_id": "tU1DeXd2YzuGcS3aAAAAAA==",
+      "job_employment_type": "FULLTIME",
+      "job_title": "Node & React Fullstack Developer",
+      "job_apply_link": "https://jobs.smartrecruiters.com/Talan/743999814031922-node-react-fullstack-developer",
+      "job_apply_is_direct": false,
+      "job_apply_quality_score": 0.6414,
+      "apply_options": [
+        {
+          "publisher": "Smart Recruiters Jobs",
+          "apply_link": "https://jobs.smartrecruiters.com/Talan/743999814031922-node-react-fullstack-developer",
+          "is_direct": false
+        },
+        {
+          "publisher": "Indeed",
+          "apply_link": "https://es.indeed.com/viewjob?jk=0e04a1d015d8fe43",
+          "is_direct": true
+        },
+        {
+          "publisher": "Talentify",
+          "apply_link": "https://www.talentify.io/job/node-and-react-fullstack-developer-malaga-an-talan-ee9633d4695818ac6ab1da129d37fe86-1",
+          "is_direct": false
+        },
+        {
+          "publisher": "SimplyHired",
+          "apply_link": "https://www.simplyhired.es/job/3wvcdJIMEAUF_vUoqpYEpbwTdzZBZEkNEwH_QmcycgxAyXZ9CoAmYg",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Job Description\n\nWhy Talan?\n\nFor more than 15 years, Talan Group has been advising companies and administrations, supporting them and implementing their transformation projects in Europe, America, Africa and Asia.\n\nWould you like to support organizations in their journey to the future? In Talan Spain we make it real through digital transformation.\n\nWe put people at the center, and we lean on collective intelligence, diversity, pragmatism and agility. We believe in environment based on trust, excellence, collaboration, flexibility and respect.\n\nIn addition, we lean on cultural, business, Agile and technological transformation through Artificial Intelligence, Big Data, Blockchain and RPAs.\n\nFind out more about Talan:\n\nhttps://es.talan.com/actualites/detail/news/discover-talan-in-2-minutes/\n\nJob Description\n\nAre you a Fullstack Developer open to new promising opportunities? Then read on, this job offer might interest you!\n\nWe are looking for a Fullstack Developer profile with the characteristics described below, to work in a large project.\n\nWhat we expect from you:\n• Experience with databases & Object-Relational Mapping (ORM) frameworks (e.g. Hibernate)\n• Proven working experience as a Software Developer or similar role.\n• Familiarity with Agile development methodologies\n• Experience with software design and development in a test-driven environment.\n• Excellent communication skills, also spoken and written English (this is truly a must!) you will be working with people from eveywhere\n• Knowledge of coding languages and technologies such as:\n• AWS ECS Fargate\n• NodeJS + Typescript\n• RDS + DynamoDB\n• React + TypeScript\n\nWe offer:\n• Full time and permanent employment contract, if you prefer freelance - let's talk about it!\n• Smart Office Pack so you can work from home in a comfortable way\n• Training and Career Development\n• Benefits & Perks like private medical insurance, life insurance, lunch and transport cards as part of the flexible remuneration pack\n• Possibility to join a multicultural team & work in international projects!",
+      "job_is_remote": false,
+      "job_posted_at_timestamp": 1648041266,
+      "job_posted_at_datetime_utc": "2022-03-23T13:14:26.000Z",
+      "job_city": "Málaga",
+      "job_state": "AN",
+      "job_country": "ES",
+      "job_latitude": 36.72126,
+      "job_longitude": -4.4212656,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=react+developer+in+spain&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=react+developer+in+spain&htidocid=tU1DeXd2YzuGcS3aAAAAAA%3D%3D",
+      "job_offer_expiration_datetime_utc": null,
+      "job_offer_expiration_timestamp": null,
+      "job_required_experience": {
+        "no_experience_required": false,
+        "required_experience_in_months": null,
+        "experience_mentioned": true,
+        "experience_preferred": false
+      },
+      "job_required_skills": null,
+      "job_required_education": {
+        "postgraduate_degree": false,
+        "professional_certification": false,
+        "high_school": false,
+        "associates_degree": false,
+        "bachelors_degree": false,
+        "degree_mentioned": false,
+        "degree_preferred": false,
+        "professional_certification_mentioned": false
+      },
+      "job_experience_in_place_of_education": false,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_currency": null,
+      "job_salary_period": null,
+      "job_highlights": {},
+      "job_job_title": null,
+      "job_posting_language": "en",
+      "job_onet_soc": "15113400",
+      "job_onet_job_zone": "3"
+    },
+    {
+      "employer_name": "Preply",
+      "employer_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Preply-logo.png/800px-Preply-logo.png",
+      "employer_website": "http://preply.com",
+      "employer_company_type": null,
+      "job_publisher": "Preply",
+      "job_id": "eqfV-JOXfbTinVhRAAAAAA==",
+      "job_employment_type": "FULLTIME",
+      "job_title": "React Native Engineer",
+      "job_apply_link": "https://preply.com/en/careers/apply?gh_jid=5574187003",
+      "job_apply_is_direct": false,
+      "job_apply_quality_score": 0.8398,
+      "apply_options": [
+        {
+          "publisher": "Preply",
+          "apply_link": "https://preply.com/en/careers/apply?gh_jid=5574187003",
+          "is_direct": false
+        },
+        {
+          "publisher": "Greenhouse",
+          "apply_link": "https://boards.greenhouse.io/embed/job_app?for=preply&token=5574187003",
+          "is_direct": false
+        },
+        {
+          "publisher": "LinkedIn",
+          "apply_link": "https://es.linkedin.com/jobs/view/react-native-engineer-at-preply-3727066872",
+          "is_direct": false
+        },
+        {
+          "publisher": "Wellfound",
+          "apply_link": "https://wellfound.com/jobs/2635899-react-native-engineer",
+          "is_direct": true
+        },
+        {
+          "publisher": "Startup Jobs",
+          "apply_link": "https://startup.jobs/react-native-engineer-preply-4326232",
+          "is_direct": false
+        },
+        {
+          "publisher": "BeBee",
+          "apply_link": "https://es.bebee.com/job/20240202-28fec02b42beec739fc7955e09139ed1",
+          "is_direct": false
+        },
+        {
+          "publisher": "Reach Capital Job Board",
+          "apply_link": "https://jobs.reachcapital.com/companies/preply/jobs/32394287-react-native-engineer",
+          "is_direct": false
+        },
+        {
+          "publisher": "Jobs | Techstars Talent Network - Techstars",
+          "apply_link": "https://jobs.techstars.com/companies/preply/jobs/32394287-senior-react-native-engineer",
+          "is_direct": false
+        }
+      ],
+      "job_description": "At Preply, we are unlocking human potential through learning.\n\nWe believe learning with a great tutor is life-changing. That’s why we match online tutors from across the globe with learners and empower them to create live language classes with AI-powered tools and learning materials. This is how we deliver progress, create engagement and keep our global community of learners motivated. So far, over 32,000 tutors have given more than 15 million lessons to learners from over 175 countries.\n\nThe Preply Engineering Team provides the tools to help unlock human potential through learning.\n\nAt Preply, we run hundreds of AB tests, each with specific tracking and analytic requirements. This, along with the wide scope of our product and the sophistication of the tutor/learner interactions, makes for some rewarding challenges. As a member of the app team, you’ll be joining one of the fastest-growing areas of the business with a chance to make a real impact on our learners and tutors. The app team’s mission is to attract new learners from all over the world to Preply, and help them to keep learning over time by making it easy to connect with their tutor and manage their learning path.\n\nVisit our Tech Radar to learn about the technologies we use at Preply!\n\nWhat you’ll be doing:\n• Develop high-quality, scalable, and reliable features for Preply mobile applications using React Native and launched in our A/B experimentation framework.\n• Collaborate with cross-functional teams, including UX designers, product managers, and other engineers, to deliver innovative solutions that empower our learners and educators.\n• Share your knowledge and expertise with the team and continuously learn from others to foster a culture of continuous learning and growth.\n• Embrace a culture of transparency and open communication to build trust and ensure everyone is aligned on goals and objectives.\n• Write clean, maintainable, and efficient code that sets the standard for excellence.\n• Participate in code reviews and ensure code quality to maintain our high standards.\n• Continuously improve software engineering practices and methodologies to stay ahead of the curve and deliver value to our users.\n• Proactively contribute to overall architecture, performance and code quality.\n\nWhat you need to succeed:\n• 5+ years of experience in mobile application development with at least 2 years of experience in React Native development.\n• Strong proficiency in JavaScript/Typescript and experience with popular React Native libraries (e.g. Reanimated, Apollo Client, Expo, React Navigation).\n• A commitment to excellence and a desire to deliver innovative solutions that empower our learners and educators.\n• Excellent problem-solving skills and the ability to debug complex issues.\n• Strong communication skills and ability to collaborate with cross-functional teams to deliver results.\n• Experience with agile software development methodologies to help us move fast and deliver value.\n• Strong attention to detail and ability to deliver high-quality work on time.\n• Experience writing unit and e2e tests\n\nWhy you’ll love it at Preply:\n• An open, collaborative, dynamic and diverse culture;\n• A generous monthly allowance for lessons on Preply.com, Learning & Development budget and time off for your self-development;\n• A competitive financial package with equity, leave allowance and health insurance;\n• Access to free mental health support platforms;\n• Access to Gympass-partnered wellness and gym centers throughout Spain to promote and support well-being and physical health;\n• A flexible set-up with the option of paid relocation to Barcelona or working remotely within a close time-zone;\n• The opportunity to shape the lives of learners and tutors through language learning and teaching in 175 countries (and counting!).\n\nOur Principles\n• Care to change the world - We are passionate about our work and care deeply about its impact to be life changing.\n• We do it for learners - For both Preply and tutors, learners are why we do what we do. Every day we focus on empowering tutors to deliver an exceptional learning experience.\n• Keep perfecting - To create an outstanding customer experience, we focus on simplicity, smoothness, and enjoyment, continually perfecting it as every detail matters.\n• Now is the time - In a fast-paced world, it matters how quickly we act. Now is the time to make great things happen.\n• Disciplined execution - What makes us disciplined is the excellence in our execution. We set clear goals, focus on what matters, and utilize our resources efficiently.\n• Dive deep - We leverage business acumen and curiosity to investigate disparities between numbers and stories, unlocking meaningful insights to guide our decisions.\n• Growth mindset - We proactively seek growth opportunities and believe today's best performance becomes tomorrow's starting point. We humbly embrace feedback and learn from setbacks.\n• Raise the bar - We raise our performance standards continuously, alongside each new hire and promotion. We build diverse and high-performing teams that can make a real difference.\n• Challenge, disagree and commit - We value open and candid communication, even when we don’t fully agree. We speak our minds, challenge when necessary, and fully commit to decisions once made.\n• One Preply - We prioritize collaboration, inclusion, and the success of our team over personal ambitions. Together, we support and celebrate each other's progress.\n\nDiversity, Equity, and Inclusion\n\nPreply is committed to creating a diverse and inclusive environment where people from all backgrounds can thrive. Different opinions and viewpoints are key ingredients in our success as a multicultural Ed-Tech company.\n\nPreply will consider all applications for employment without regard to race, color, religion, gender identity or expression, sexual orientation, national origin, disability, age or veteran status. Together, we are The World Class.",
+      "job_is_remote": false,
+      "job_posted_at_timestamp": 1680739200,
+      "job_posted_at_datetime_utc": "2023-04-06T00:00:00.000Z",
+      "job_city": "Barcelona",
+      "job_state": "CT",
+      "job_country": "ES",
+      "job_latitude": 41.387398,
+      "job_longitude": 2.168568,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=react+developer+in+spain&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=react+developer+in+spain&htidocid=eqfV-JOXfbTinVhRAAAAAA%3D%3D",
+      "job_offer_expiration_datetime_utc": null,
+      "job_offer_expiration_timestamp": null,
+      "job_required_experience": {
+        "no_experience_required": false,
+        "required_experience_in_months": 60,
+        "experience_mentioned": true,
+        "experience_preferred": false
+      },
+      "job_required_skills": null,
+      "job_required_education": {
+        "postgraduate_degree": false,
+        "professional_certification": false,
+        "high_school": false,
+        "associates_degree": false,
+        "bachelors_degree": false,
+        "degree_mentioned": false,
+        "degree_preferred": false,
+        "professional_certification_mentioned": false
+      },
+      "job_experience_in_place_of_education": false,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_currency": null,
+      "job_salary_period": null,
+      "job_highlights": {},
+      "job_job_title": "Engineer",
+      "job_posting_language": "en",
+      "job_onet_soc": "15113200",
+      "job_onet_job_zone": "4"
+    }
+  ]
+}
